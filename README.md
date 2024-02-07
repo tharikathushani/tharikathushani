@@ -1,3 +1,4 @@
+![logo](https://github.com/tharikathushani/tharikathushani/blob/main/Navy%20And%20White%20Geometric%20Technology%20%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm tharika thushani</h1>
 <h3 align="center">I am learning about computer science</h3>
 <img align="right" alt="coding" width="400" src="https://images.static-collegedunia.com/public/image//f57c4d1979de06e49b1dd15d02ecd231.gif">
