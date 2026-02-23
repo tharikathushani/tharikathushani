@@ -22,7 +22,6 @@ and microservices-based applications using Spring Boot.
 - 💻 Strong in **Java, Spring Boot & REST API Development**
 - 🔐 Experienced in **Spring Security (JWT Authentication)**
 - 🏗 Familiar with **Microservices Architecture**
-- ☁️ Hands-on experience with **AWS Lambda & DynamoDB**
 ---
 
 ### 🛠 Technical Skills
