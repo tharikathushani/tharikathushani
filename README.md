@@ -1,58 +1,93 @@
-![logo](https://github.com/tharikathushani/tharikathushani/blob/main/Navy%20And%20White%20Geometric%20Technology%20%20LinkedIn%20Banner.png)
-<h1 align="center">Hi 👋, I'm tharika thushani</h1>
-<h3 align="center">I am learning about computer science</h3>
-<img align="right" alt="coding" width="400" src="https://images.static-collegedunia.com/public/image//f57c4d1979de06e49b1dd15d02ecd231.gif">
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tharikathushani&label=Profile%20views&color=0e75b6&style=flat" alt="tharikathushani" /> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<!-- Banner -->
+<p align="center">
+  <img src="https://github.com/tharikathushani/tharikathushani/blob/main/Navy%20And%20White%20Geometric%20Technology%20%20LinkedIn%20Banner.png" alt="banner" width="100%" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <!-- Existing icons -->
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  </a>
+<h1 align="center">Tharika Thushani</h1>
 
-  <!-- New icons -->
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+<h3 align="center">
+🚀 Graduated in computer science |Java & Spring Boot | Microservices Enthusiast | Full-Stack Engineer
+</h3>
+
+<p align="center">
+Passionate about building scalable backend systems, secure REST APIs, 
+and microservices-based applications using Spring Boot.
+</p>
+
+---
+
+### 👩‍💻 About Me
+
+- 🎓 BSc in Computer Science – University of Colombo School of Computing
+- 💻 Strong in **Java, Spring Boot & REST API Development**
+- 🔐 Experienced in **Spring Security (JWT Authentication)**
+- 🏗 Familiar with **Microservices Architecture**
+- ☁️ Hands-on experience with **AWS Lambda & DynamoDB**
+---
+
+### 🛠 Technical Skills
+
+#### 🚀 Backend
+- Java
+- Spring Boot
+- Spring Security (JWT)
+- REST APIs
+- Microservices Architecture
+- AWS Lambda
+- MySQL / MongoDB
+
+#### 🎨 Frontend
+- Angular
+- JavaScript
+- HTML / CSS
+
+#### 📱 Mobile
+- Flutter
+
+#### 🧰 Tools & Practices
+- Git & GitHub
+- Postman / Swagger
+- Jira / Agile
+- MVC Architecture
+- E2E Testing (Playwright)
+
+---
+
+### 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/tharika-thushani-254b47290/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Tharika%20Thushani-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/>
-  </a>
-  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="springboot" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <a href="mailto:tharikathushani212@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
 
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tharikathushani&show_icons=true&locale=en&layout=compact" alt="tharikathushani" /></p>
+### 🛠 Languages and Tools
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tharikathushani&show_icons=true&locale=en" alt="tharikathushani" /></p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45"/>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tharikathushani&" alt="tharikathushani" /></p>
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tharikathushani&show_icons=true&locale=en" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tharikathushani&show_icons=true&locale=en&layout=compact" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tharikathushani" height="165" />
+</p>
