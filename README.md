@@ -78,15 +78,4 @@ and microservices-based applications using Spring Boot.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45"/>
 </p>
 
----
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tharikathushani&show_icons=true&locale=en" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tharikathushani&show_icons=true&locale=en&layout=compact" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tharikathushani" height="165" />
-</p>
